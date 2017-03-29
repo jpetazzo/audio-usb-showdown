@@ -1,0 +1,14 @@
+nickname: fivedotone
+commercial name: USB external 4-channel 5.1 S/PDIF Fiber Sound Card
+ASIN:
+vendor_id: "0d8c"
+vendor_name: ""
+product_id: "0102"
+product_name: "USB Sound Device        "
+amps: 0.10
+noise_rating: B
+level_rating: B
+comments: |
+  noise was relatively clean (almost grade A)
+  lsusb says this is a "C-Media Electronics, Inc. CM106 Like Sound Device"
+  alsamixer sees this as a 7.1 device
